@@ -42,6 +42,10 @@ Welcome to the SpyderXOGame project! This is a common task for the Spider Club i
 - `newtictactoe.html`: The HTML file that contains the structure of the Tic-Tac-Toe game.
 - `newtictactoe.css`: The CSS file that styles the Tic-Tac-Toe game.
 - `newtictactoe.js`: The JavaScript file that contains the game logic.
+ Demo Video
+To see a demonstration of the game, click the link below:
+
+[SpyderXOGame Demo Video](https://drive.google.com/drive/folders/1BcGgKNDFERSyxlDzPHm2Uz8EOtb19myI?usp=sharing)
 
 ## Additional Tips
 
