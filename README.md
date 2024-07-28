@@ -6,7 +6,7 @@
 
 Welcome to the SpyderXOGame project! This is a common task for the Spider Club induction, where you'll implement a Tic-Tac-Toe game using HTML, CSS, and JavaScript. Follow the instructions below to set up and run the game.
 
-### Option 2: Manual Download
+### Manual Download
 
 1. **Download Individual Files**
    - Make sure to download all three files (HTML, CSS, and JavaScript) into the same folder. For example, create a folder named `x-0` and download the following files into it:
